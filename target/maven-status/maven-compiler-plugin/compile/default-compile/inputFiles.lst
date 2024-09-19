@@ -1,0 +1,13 @@
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/example/controller/Healthcheck.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/bean/EvalBean.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/bean/Show.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/query/KubeAmbassadorDataFetcher.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/bean/KubeAmbassador.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/mutation/ShowMutation.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/service/ShowDBService.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/bean/TechDetail.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/controller/UnsafeController.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/query/TechDetailDataFetcher.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/query/ShowsDatafetcher.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/DgsGraphQlSkeletonApplication.java
+/Users/juanantoniogozalvezherrero/projects/dgs-skeleton/src/main/java/fr/davidrobin/api/bean/CommonBean.java
